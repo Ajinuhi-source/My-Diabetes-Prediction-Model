@@ -1,1 +1,1 @@
-# My-Diabetes-Prediction-Model
+This Project serves as a proof-of-concept for a new approach to creating ML solutions that enables anybody, anywhere to take advantage of the opportunities that ML may offer. The project aims to increase/improve the accessibility, reproducibility, contextualization and enhancement of Artificial Intelligence solutions globally and particularly in addressing public health challenges.
